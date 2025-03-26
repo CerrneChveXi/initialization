@@ -8,6 +8,10 @@ h1{
 }
 h2{
   color: MediumSeaGreen;
-.Navigation{
-  color:grey;
 }
+  a:link{
+    color:grey;
+  }
+  a:hover{
+    color: MediumSeaGreen;
+  }
